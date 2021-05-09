@@ -35,3 +35,4 @@ Java is designed for the distributed environment of the internet.
 
 ### Dynamic − 
 Java is considered to be more dynamic than C or C++ since it is designed to adapt to an evolving environment. Java programs can carry extensive amount of run-time information that can be used to verify and resolve accesses to objects on run-time.
+
